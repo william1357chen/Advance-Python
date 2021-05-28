@@ -2,7 +2,7 @@
 <html>
 <body>
     <main>
-        <table align="center" cellspacing="0" cellpadding="5" width="80%" border="1">
+        <table align="center" cellspacing="0" cellpadding="5" width="100%">
             <tbody>
                 <thead align="center">
                     <td>
