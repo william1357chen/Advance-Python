@@ -1,14 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-    <link rel="stylesheet" href="./style.css"/>
-</head>
 <body>
     <main>
-        <table>
+        <table align="center" cellspacing="0" cellpadding="5" width="80%" border="1">
             <tbody>
-                <thead>
-                    <td class="topic">
+                <thead align="center">
+                    <td>
                         <p><strong>TOPICS</strong></p>
                     </td>
                     <td><strong>Key Subtopics<br></strong></td>
