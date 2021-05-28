@@ -34,7 +34,8 @@
                     <td> 
                         <a href="typing_annotation.md">Type Annotation</a>
                     </td>
-                    <td>&nbsp;
+                    <td>
+                        <a href="typing_annotation.md#how-to-write-type-annotations">How to Write Type Annotations</a>
                     </td>
                 </tr>
                 <tr>
