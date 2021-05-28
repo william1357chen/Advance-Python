@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html>
-
 <head>
     <style>
         td {
@@ -13,13 +12,12 @@
         table {
             border-spacing: 0;
             border-collapse: collapse;
-            width: 80%;
+            width: 100%;
             margin-left: auto;
             margin-right: auto;
         }
     </style>
 </head>
-
 <body>
     <main>
         <table>
@@ -78,5 +76,4 @@
         </table>
     </main>
 </body>
-
 </html>
