@@ -5,10 +5,9 @@
         <table align="center" cellspacing="0" cellpadding="5" width="100%">
             <tbody>
                 <thead align="center">
-                    <td>
-                        <p><strong>TOPICS</strong></p>
-                    </td>
-                    <td><strong>Key Subtopics<br></strong></td>
+                    <td width="30%">
+                        <p><strong>TOPICS</strong></p></td>
+                    <td width="70%"><strong>Key Subtopics<br></strong></td>
                 </thead>
                 <tr>
                     <td>Decorators</td>
