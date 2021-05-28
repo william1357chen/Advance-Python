@@ -19,6 +19,14 @@ x = 1 if condition else 0
 print(x)
 ```
 
+## Automated Testing with `assert`
+`assert` statments gives us an `AssertionError` if the speficied condition is not true.
+```python
+assert 1 + 1 == 2
+assert 1 + 1 == 2, "1 + 1 should be equal to 2 but didn't
+```
+We can add an optional message to print if assertion fails. 
+
 ## Underscore Placeholders
 To make numbers easier to read
 ```python 

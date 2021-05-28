@@ -2,7 +2,7 @@
 <html>
 <body>
     <main>
-        <table width="1000px" cellspacing="0" cellpadding="5" border="1">
+        <table align="center" cellspacing="0" cellpadding="5" border="1">
             <tbody>
                 <thead align="center">
                     <td width="30%">
@@ -21,10 +21,16 @@
                     </td>
                 </tr>
                 <tr>
-                    <td width="30%">Arguments Packing and Unpacking</td>
+                    <td> Type Annotation
+                    </td>
+                    <td>&nbsp;
+                    </td>
+                </tr>
+                <tr>
+                    <td width="30%">Arguments Packing and Unpacking </td>
                     <td width="70%">
                         <ul>
-                            <li>Optional Arguments with Argument Packing</li>
+                            <li>Optional Arguments with Argument Packing (*args and **kwargs)</li>
                             <li>Arguments Unpacking</li>
                         </ul>
                     </td>
@@ -43,6 +49,7 @@
                     <td width="70%">
                         <ul>
                             <li>Ternary Conditionals</li>
+                            <li>Automated Testing with assert</li>
                             <li>Underscore Placeholder</li>
                             <li>Context Manager</li>
                             <li>Enumerate</li>
