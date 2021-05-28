@@ -1,22 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        td {
-            border: 1px solid #333;
-            padding: 10px;
-        }
-        thead {
-            text-align: center;
-        }
-        table {
-            border-spacing: 0;
-            border-collapse: collapse;
-            width: 100%;
-            margin-left: auto;
-            margin-right: auto;
-        }
-    </style>
+    <link rel="stylesheet" href="./style.css"/>
 </head>
 <body>
     <main>
