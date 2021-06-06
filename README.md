@@ -8,7 +8,7 @@
             <tbody>
                 <thead align="center">
                     <td width="30%">
-                        <p><strong>TOPICS</strong></p>
+                        <strong>TOPICS</strong>
                     </td>
                     <td width="70%"><strong>Key Subtopics<br></strong></td>
                 </thead>
